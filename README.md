@@ -1,1 +1,1 @@
-# DesisePredictionModel
+# DiseasePredictionModel
